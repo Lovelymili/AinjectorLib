@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\Administrator\source\repos\AinjectorLib\dllmain.cpp(49): warning C4715: “Inject”: 不是所有的控件路径都返回值
+    正在创建库 C:\Users\Administrator\source\repos\AinjectorLib\x64\Debug\AinjectorLib.lib 和对象 C:\Users\Administrator\source\repos\AinjectorLib\x64\Debug\AinjectorLib.exp
+  AinjectorLib.vcxproj -> C:\Users\Administrator\source\repos\AinjectorLib\x64\Debug\AinjectorLib.dll
